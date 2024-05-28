@@ -1,0 +1,49 @@
+body{
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+.title-name{
+  text-align: center;
+  font-family: century;
+  font-weight: normal;
+  font-size: 50px;
+}
+
+div{
+  text-align: center;
+}
+
+.my-link{
+  font-size: large;
+  padding-right: 40px;
+  border-right: 2px solid black;
+  width: 20px;
+  height: 20px;
+  text-decoration: none;
+  color: blue;
+}
+
+#last{
+  border-right: none;
+}
+
+#mail-icon{
+  width: 13px;
+  height: 12px;
+  padding-left: 20px;
+}
+
+#tel-icon{
+  width: 13px;
+  height: 12px;
+  padding-left: 20px;
+}
+
+#linkedin-icon{
+  width: 13px;
+  height: 12px;
+  padding-left: 20px;
+}
+
+
